@@ -24,7 +24,7 @@
   },
   "browserslist": [
     ">0.2%",
-    "not dead",
+    "not dead", # MORTOFÓBICO!
     "not ie <= 11",
     "not op_mini all"
   ]
